@@ -1,0 +1,9 @@
+This project is an attemt to make a debug program;
+Total goal is to make it an interactive memory lurker with maybe some additional stuff
+At the point of writng this, program searches process memory for raw input
+A lot of features are reflecting stuff, that I am in the process of learning
+MEY 20.7.20 (dmy)
+
+Adding this project to github, probably should tell more about it. It is all above mentioned,
+works on linux and utilizing /proc folder. It probably has something to do with a lot of 
+stuff, that i dont know, but once again, I did it for fun. It doesn't work at this point, but i wanna finish it later.

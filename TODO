@@ -1,0 +1,9 @@
+Implement function for combining two structs wp_list;
+Implement set of functions for checking watchpoints and applying functions to them w/ regard to
+access bits of corresponding region
+Implement interactive functions and input from keyboard
+Implement functions for applying functions for different memory regions (maybe)
+Implement functions for handling of different processes
+Implement functions for logging
+	  MEY 21.7.20(dmy)
+	  

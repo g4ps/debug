@@ -1,0 +1,6 @@
+*.o
+*~
+dump
+input
+a.out
+
